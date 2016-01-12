@@ -5,10 +5,8 @@ Here are some introductory PHP examples.  To run them examples on your VM (which
 1. Login to your VM
 2. `git clone http://github.com/portsoc/introphp.git`
 3. `php -S 0:8080 -t introphp`
-4. Visit [127.0.0.1](http://127.0.0.1) in your preferred browser.
-
-Try the examples, and then change them to your specifications.
-
+4. Check the IP address of your VM, and type this into your preferred browser to load a copy of this page from *your* server.  From there you can try the examples, and then change them to your specifications.
+5. If you're using Chrome, try [Mike's LivePage extension](https://chrome.google.com/webstore/detail/livepage/pilnojpmdoofaelbinaeodfpjheijkbh?hl=en) to update the browser content as you chaneg the source files.
 
 # Echo
 
