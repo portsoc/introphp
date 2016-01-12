@@ -1,0 +1,7 @@
+@import url(color.css);
+@import url(layout.css);
+@import url(layout.mobile.css);
+
+* {
+	font-family: sans-serif;
+}

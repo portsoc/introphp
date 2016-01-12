@@ -1,0 +1,19 @@
+* {
+	# -webkit-transition: all 0.3s ease-in-out;
+}
+
+body {
+	color: #666;
+}
+
+header, nav, footer {
+	color: #69C;
+	text-shadow: 0ex 0.5ex 1ex rgba(0,0,0,0.2);
+}
+
+section {
+	color: #555;
+}
+article>h1 {
+	color: #222;
+}

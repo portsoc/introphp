@@ -1,0 +1,22 @@
+
+body {
+	background-color: #CC9900;
+}
+header, footer, nav, article, section, aside {
+	color: white;
+}
+footer, header {
+	background-color: #336699;
+}
+nav {
+	background-color: #996633;
+}
+article {
+	background-color: #339966;
+}
+section {
+	background-color: #339966;
+}
+aside {
+	background-color: #669933;
+}

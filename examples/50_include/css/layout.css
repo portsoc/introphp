@@ -1,0 +1,43 @@
+
+* {
+	margin: 0em;
+	padding: 0em;
+}
+body {
+	margin: 0em auto;
+	max-width:50em;
+}
+header, footer, nav, aside {
+	padding: 2em;
+	display: block;
+}
+footer, header {
+	clear:both;
+}
+header h1 {
+	font-size: 300%;
+}
+nav {
+	max-width: 10em;
+	float:left;
+}
+nav>ul {
+	list-style: none;
+}
+article {
+	margin: 0em auto;
+	padding: 1em 1em 1em 10em;
+}
+section {
+	padding: 1em 2em 1em 2em;
+	margin: 1ex auto;
+}
+aside {
+	max-width: 15em;
+	float:right;
+}
+
+a {
+	color: inherit;
+	text-decoration: none;
+}
