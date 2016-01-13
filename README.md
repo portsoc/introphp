@@ -6,7 +6,9 @@ Here are some introductory PHP examples.  To run them examples on your VM (which
 2. `git clone http://github.com/portsoc/introphp.git`
 3. `php -S 0:8080 -t introphp`
 4. Check the IP address of your VM, and type this into your preferred browser to load a copy of this page from *your* server.  From there you can try the examples, and then change them to your specifications.
-5. If you're using Chrome, try [Mike's LivePage extension](https://chrome.google.com/webstore/detail/livepage/pilnojpmdoofaelbinaeodfpjheijkbh?hl=en) to update the browser content as you chaneg the source files.
+5. If you're using Chrome, try [Mike's LivePage extension](https://chrome.google.com/webstore/detail/livepage/pilnojpmdoofaelbinaeodfpjheijkbh?hl=en) to update the browser content as you change the source files.
+6. For editing the files on server, you can use `nano` as a simple text editor (`ctrl-o` to save, and `ctrl-x` to exit); or edit on your computer and upload the files to the server on every change.
+7. If you're using Atom, the *Remote Sync* package (or similar ones) may help you with the uploads.
 
 # Echo
 
